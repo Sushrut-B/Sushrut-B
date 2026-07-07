@@ -285,22 +285,6 @@ Led the machine learning workstream for an AI-powered gastric cancer detection s
 
 ---
 
-## <img src="https://media.giphy.com/media/LMt5uLmXsGOb4tOnHg/giphy.gif" width="28"> GitHub Contribution Calendar
-
-<div align="center">
-
-<!--START_SECTION:calendar-->
-
-*Hover over any day to see the exact contribution count — this section auto-updates daily via GitHub Actions. Run the workflow once after setup to populate it.*
-
-<!--END_SECTION:calendar-->
-
-</div>
-
-<br/>
-
----
-
 ## <img src="https://media.giphy.com/media/RxS3T1FLuha3S/giphy.gif" width="28"> Let's Connect
 
 <div align="center">
