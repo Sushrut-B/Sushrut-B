@@ -285,14 +285,15 @@ Led the machine learning workstream for an AI-powered gastric cancer detection s
 
 ---
 
-## <img src="https://media.giphy.com/media/LMt5uLmXsGOb4tOnHg/giphy.gif" width="28"> GitHub Analytics
+## <img src="https://media.giphy.com/media/LMt5uLmXsGOb4tOnHg/giphy.gif" width="28"> GitHub Contribution Calendar
 
 <div align="center">
 
-<img src="https://github-stats-extended.vercel.app/api?username=Sushrut-B&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0F0524&title_color=A78BFA&icon_color=8B5CF6&text_color=C9C9E0" width="49%"/>
-<img src="https://streak-stats.demolab.com/?user=Sushrut-B&theme=tokyonight&hide_border=true&background=0F0524&stroke=A78BFA&ring=8B5CF6&fire=8B5CF6&currStreakLabel=A78BFA" width="49%"/>
+<!--START_SECTION:calendar-->
 
-<img src="https://github-stats-extended.vercel.app/api/top-langs/?username=Sushrut-B&layout=compact&theme=tokyonight&hide_border=true&bg_color=0F0524&title_color=A78BFA&text_color=C9C9E0" width="60%"/>
+*Hover over any day to see the exact contribution count — this section auto-updates daily via GitHub Actions. Run the workflow once after setup to populate it.*
+
+<!--END_SECTION:calendar-->
 
 </div>
 
