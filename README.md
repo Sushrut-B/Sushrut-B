@@ -289,10 +289,10 @@ Led the machine learning workstream for an AI-powered gastric cancer detection s
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=Sushrut-B&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0F0524&title_color=A78BFA&icon_color=8B5CF6&text_color=C9C9E0" width="49%"/>
+<img src="https://github-stats-extended.vercel.app/api?username=Sushrut-B&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0F0524&title_color=A78BFA&icon_color=8B5CF6&text_color=C9C9E0" width="49%"/>
 <img src="https://streak-stats.demolab.com/?user=Sushrut-B&theme=tokyonight&hide_border=true&background=0F0524&stroke=A78BFA&ring=8B5CF6&fire=8B5CF6&currStreakLabel=A78BFA" width="49%"/>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sushrut-B&layout=compact&theme=tokyonight&hide_border=true&bg_color=0F0524&title_color=A78BFA&text_color=C9C9E0" width="60%"/>
+<img src="https://github-stats-extended.vercel.app/api/top-langs/?username=Sushrut-B&layout=compact&theme=tokyonight&hide_border=true&bg_color=0F0524&title_color=A78BFA&text_color=C9C9E0" width="60%"/>
 
 </div>
 
