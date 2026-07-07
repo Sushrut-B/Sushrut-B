@@ -16,11 +16,6 @@
 [![Email](https://img.shields.io/badge/Email-1a1a2e?style=for-the-badge&logo=gmail&logoColor=A78BFA)](mailto:bankalgisushrut@gmail.com)
 [![GitHub](https://img.shields.io/badge/GitHub-1a1a2e?style=for-the-badge&logo=github&logoColor=A78BFA)](https://github.com/Sushrut-B)
 
-<br/>
-
-![Profile Views](https://komarev.com/ghpvc/?username=Sushrut-B&color=8B5CF6&style=flat-square&label=PROFILE+VIEWS)
-![Followers](https://img.shields.io/github/followers/Sushrut-B?color=8B5CF6&style=flat-square&label=FOLLOWERS)
-![Stars](https://img.shields.io/github/stars/Sushrut-B?color=8B5CF6&style=flat-square&label=STARS)
 
 </div>
 
@@ -69,7 +64,12 @@ Across internships in **telecom, healthtech, and fintech**, I've owned everythin
 
 **AI / ML**
 
-![Skills](https://skillicons.dev/icons?i=pytorch,sklearn,pandas,tensorflow&theme=dark)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
+![Scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+![HuggingFace](https://img.shields.io/badge/Hugging_Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black)
+![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white)
 
 </div>
 
@@ -290,69 +290,11 @@ Led the machine learning workstream for an AI-powered gastric cancer detection s
 <div align="center">
 
 <img src="https://github-readme-stats.vercel.app/api?username=Sushrut-B&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0F0524&title_color=A78BFA&icon_color=8B5CF6&text_color=C9C9E0" width="49%"/>
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Sushrut-B&theme=tokyonight&hide_border=true&background=0F0524&stroke=A78BFA&ring=8B5CF6&fire=8B5CF6&currStreakLabel=A78BFA" width="49%"/>
+<img src="https://streak-stats.demolab.com/?user=Sushrut-B&theme=tokyonight&hide_border=true&background=0F0524&stroke=A78BFA&ring=8B5CF6&fire=8B5CF6&currStreakLabel=A78BFA" width="49%"/>
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sushrut-B&layout=compact&theme=tokyonight&hide_border=true&bg_color=0F0524&title_color=A78BFA&text_color=C9C9E0" width="60%"/>
 
 </div>
-
-<br/>
-
----
-
-## <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="28"> GitHub Trophies
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=Sushrut-B&theme=algolia&no-frame=true&column=7&margin-w=8&margin-h=8" width="100%"/>
-
-</div>
-
-<br/>
-
----
-
-## <img src="https://media.giphy.com/media/l3vR16BE0f7EBaN4Y/giphy.gif" width="28"> Contribution Activity
-
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Sushrut-B&theme=tokyo-night&bg_color=0F0524&color=A78BFA&line=8B5CF6&point=C9A6FF&hide_border=true" width="100%"/>
-
-</div>
-
-<br/>
-
----
-
-## <img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" width="28"> Contribution Snake
-
-<div align="center">
-
-<img src="https://raw.githubusercontent.com/Sushrut-B/Sushrut-B/output/github-contribution-grid-snake-dark.svg" width="100%"/>
-
-</div>
-
-<br/>
-
----
-
-## <img src="https://media.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif" width="28"> Current Focus
-
-```yaml
-learning:
-  - Advanced distributed systems & scalable backend architecture
-  - LLM orchestration and agentic AI workflows
-building:
-  - Production-grade AI-powered SaaS platforms
-  - Deep learning forecasting systems for fintech
-exploring:
-  - LangChain-based agentic pipelines
-  - Cloud-native DevOps practices
-open_to:
-  - Software Engineering roles (Backend / Full-Stack)
-  - AI/ML Engineering roles
-  - Fintech & Enterprise systems engineering
-```
 
 <br/>
 
@@ -373,8 +315,6 @@ open_to:
 ---
 
 <div align="center">
-
-*"Engineering isn't about writing code — it's about building systems that people can trust at scale."*
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2D1155,50:1E0B3D,100:0F0524&height=120&section=footer" width="100%"/>
 
