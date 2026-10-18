@@ -4,7 +4,7 @@
 
 B.E. Artificial Intelligence & Machine Learning · DSATM · 2023–2027
 
-Bengaluru, India · [LinkedIn](https://www.linkedin.com/in/sushrut-bankalgi/) · [Email](mailto:bankalgisushrut@gmail.com) · [GitHub](https://github.com/Sushrut-B)
+Bengaluru, India · [LinkedIn](https://www.linkedin.com/in/sushrut-bankalgi/) · [Email](mailto:bankalgisushrut@gmail.com)
 
 ---
 
@@ -98,11 +98,11 @@ My experience spans telecom SaaS, healthcare AI, and fintech analytics, combinin
 
 ## Achievements
 
+- **TedX Speaker**, *AI as Boon or Bane*.
 - **5th place** — IntelliMedAI Solution Delivery, BMSCE Hackathon.
 - **6th place** — Medical Report Simplifier, DSCE Hackathon.
-- **Speaker** — DSATM TekTalk, *AI as Boon or Bane*.
-- **Research contributor** — AI-powered Wildlife Preservation & Management System; IEEE Xplore submission under review.
-
+- **Research contributor** — AI-powered Wildlife Preservation & Management System.
+  
 ## Certifications
 
 - Oracle Cloud Infrastructure — AI Foundations Associate
